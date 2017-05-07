@@ -5,6 +5,14 @@ A blog based on next.js implementation.
 
 Next.js + material-ui （其他待定）
 
+## 安装
+
+`npm i`
+
+## 运行
+
+`npm run dev`
+
 ## 目标
 
 学习react的服务器端渲染和Next.js，提高个人博客体验和首屏加载速度，利于SEO。
