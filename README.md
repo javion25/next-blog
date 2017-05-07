@@ -7,9 +7,11 @@ Next.js + Ant Design （其他待定）
 
 ## 目标
 
-实现个人博客的Server Slide Render，提高加载速度和体验，利于SEO。
+学习react的服务器端渲染和Next.js，提高个人博客体验和首屏加载速度，利于SEO。
 
-## 任务清单
+## 一些心得
 
--  1.页面模块分割
--  2.markdown解析器
+### React Server Slide Render 原理
+
+## 任务清单（待定）
+

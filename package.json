@@ -12,8 +12,12 @@
   "author": "victor",
   "license": "ISC",
   "dependencies": {
+    "antd": "^2.10.0",
     "next": "^2.3.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.1.1"
   }
 }
