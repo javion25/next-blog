@@ -1,6 +1,3 @@
-/**
- * Created by h9zhou on 2017/5/7.
- */
 import React, {Component} from 'react'
 import RaisedButton from 'material-ui/RaisedButton'
 import Dialog from 'material-ui/Dialog'
@@ -27,6 +24,7 @@ const styles = {
   }
 }
 
+// TODO: 弄懂
 const _muiTheme = getMuiTheme({
   palette: {
     accent1Color: deepOrange500
