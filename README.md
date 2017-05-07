@@ -3,7 +3,7 @@ A blog based on next.js implementation.
 
 ## 技术栈
 
-Next.js + Ant Design （其他待定）
+Next.js + material-ui （其他待定）
 
 ## 目标
 
